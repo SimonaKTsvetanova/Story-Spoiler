@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Story Spoiler", "Exam\Story Spoiler.csproj", "{FDA6F165-3960-4599-8419-AC93322FF5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA6F165-3960-4599-8419-AC93322FF5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA6F165-3960-4599-8419-AC93322FF5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA6F165-3960-4599-8419-AC93322FF5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA6F165-3960-4599-8419-AC93322FF5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D2DB2AA-2DA7-4AC3-9270-AAB0ABE3909B}
+	EndGlobalSection
+EndGlobal
